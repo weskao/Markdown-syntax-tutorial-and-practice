@@ -46,4 +46,12 @@ function main(){
 }
 ```
 
-# 表格
+# 表格 (Table)
+|Name|Sex|Age|Country|
+|---|----|----|---|
+|Bruce|Male|26|Taiwan|Unknown|
+|Tina|Female|22|Japan|Remark~~~|
+|ZZZ|XXX|999|Universe||
+
+
+
