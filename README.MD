@@ -1,4 +1,4 @@
-﻿# 標題
+# 標題
 # h1
 ## h2
 ### h3
@@ -8,10 +8,10 @@
 
 
 # 分隔線 (下一行必須有一個Enter)
-    
+
 ---
 
-*斜體 (italics)* 
+*斜體 (italics)*
 
 **粗體 (bold)**
 
@@ -31,18 +31,30 @@
 # 引用
 > 文字內容
 >> 縮行
->>>> 再縮行 (依此類推)
+>>> 再縮行 (依此類推)
 
 (結束引用)
 
 
 # 等寬字
+
 `word123123ABSDF (將每個英文字都做到相同的寬度)`
 
-# 段落等寬字
-```
-function main(){
-    console.log('Hello world')
+# 程式碼區塊 (Code block)
+
+```CSharp
+using System;
+
+namespace ConsoleApplication
+{
+    public class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
+        }
+    }
 }
 ```
 
@@ -54,4 +66,5 @@ function main(){
 |ZZZ|XXX|999|Universe||
 
 
-
+# 圖片 (Image)
+![GitHub](GitHub_Icon.png)
