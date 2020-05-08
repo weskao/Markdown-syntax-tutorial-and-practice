@@ -20,12 +20,14 @@
 
 
 # 任務列表
+
 - [] A任務
 - [] B任務
 - [x] C任務
 - [] D任務
 
 # 超連結
+
 [Google Home page](https://www.google.com/?hl=zh-tw)
 
 # 引用
@@ -59,6 +61,7 @@ namespace ConsoleApplication
 ```
 
 # 表格 (Table)
+
 |Name|Sex|Age|Country|
 |---|----|----|---|
 |Bruce|Male|26|Taiwan|Unknown|
@@ -67,4 +70,6 @@ namespace ConsoleApplication
 
 
 # 圖片 (Image)
-![GitHub](GitHub_Icon.png)
+
+![GitHub Image from local](GitHub_Icon.png)
+![GitHub Image from website](https://github.com/weskao/Markdown-syntax-tutorial-and-practice/blob/master/GitHub_Icon.png)
