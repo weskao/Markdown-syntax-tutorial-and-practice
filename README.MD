@@ -6,8 +6,7 @@
 ##### h5
 ###### h6
 
-
-# 分隔線 (下一行必須有一個Enter)
+## 分隔線 (下一行必須有一個Enter)
 
 ---
 
@@ -17,32 +16,30 @@
 
 ~~刪除線 (strikethrough)~~
 
-
-
-# 任務列表
+## 任務列表
 
 - [] A任務
 - [] B任務
 - [x] C任務
 - [] D任務
 
-# 超連結
+## 超連結
 
 [Google Home page](https://www.google.com/?hl=zh-tw)
 
-# 引用
+## 引用
+
 > 文字內容
 >> 縮行
 >>> 再縮行 (依此類推)
 
 (結束引用)
 
-
-# 等寬字
+## 等寬字
 
 `word123123ABSDF (將每個英文字都做到相同的寬度)`
 
-# 程式碼區塊 (Code block)
+## 程式碼區塊 (Code block)
 
 ```CSharp
 using System;
@@ -60,7 +57,7 @@ namespace ConsoleApplication
 }
 ```
 
-# 表格 (Table)
+## 表格 (Table)
 
 |Name|Sex|Age|Country|
 |---|----|----|---|
@@ -68,8 +65,11 @@ namespace ConsoleApplication
 |Tina|Female|22|Japan|Remark~~~|
 |ZZZ|XXX|999|Universe||
 
+## 圖片 (Image)
 
-# 圖片 (Image)
+### From relative path
 
 ![GitHub Image from local](GitHub_Icon.png)
+
+###　From website link
 ![GitHub Image from website](https://github.com/weskao/Markdown-syntax-tutorial-and-practice/blob/master/GitHub_Icon.png)
