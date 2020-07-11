@@ -81,4 +81,4 @@ namespace ConsoleApplication
 [Google](http://www.google.com/)
 
 There will appear a tooltip when your cursor hover on this link.
-[Google](https://duckduckgo.com/ "A search engine")
+[Google](http://www.google.com/ "A search engine")
