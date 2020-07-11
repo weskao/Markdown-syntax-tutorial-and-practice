@@ -73,3 +73,12 @@ namespace ConsoleApplication
 
 ###　From website link
 ![GitHub Image from website](https://github.com/weskao/Markdown-syntax-tutorial-and-practice/blob/master/GitHub_Icon.png)
+
+## 超連結 (Hyperlink)
+
+<https://markdown.tw/>
+
+[Google](http://www.google.com/)
+
+There will appear a tooltip when your cursor hover on this link.
+[Google](https://duckduckgo.com/ "A search engine")
