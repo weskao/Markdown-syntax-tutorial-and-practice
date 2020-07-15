@@ -71,10 +71,6 @@ namespace ConsoleApplication
 |Tina|Female|22|Japan|Remark~~~|
 |ZZZ|XXX|999|Universe||
 
-## 超連結
-
-[Google Home page](https://www.google.com/?hl=zh-tw)
-
 ## 圖片 (Image)
 
 ### From relative path
