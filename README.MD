@@ -16,16 +16,22 @@
 
 ~~刪除線 (strikethrough)~~
 
+## 有序清單(Ordered list)
+
+1. Item1
+2. Item2
+
+## 無序清單(Non-Ordered list)
+
+- Item1
+- Item2
+
 ## 任務列表
 
 - [] A任務
 - [] B任務
 - [x] C任務
 - [] D任務
-
-## 超連結
-
-[Google Home page](https://www.google.com/?hl=zh-tw)
 
 ## 引用
 
@@ -64,6 +70,10 @@ namespace ConsoleApplication
 |Bruce|Male|26|Taiwan|Unknown|
 |Tina|Female|22|Japan|Remark~~~|
 |ZZZ|XXX|999|Universe||
+
+## 超連結
+
+[Google Home page](https://www.google.com/?hl=zh-tw)
 
 ## 圖片 (Image)
 
