@@ -80,7 +80,7 @@ namespace ConsoleApplication
 
 ## 圖片 (Image)
 
-### From relative path
+### From relative path (圖片路徑不可包含"空白"!!!)
 
 ![GitHub Image from local](GitHub_Icon.png)
 
