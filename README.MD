@@ -88,7 +88,11 @@ namespace ConsoleApplication
 ![GitHub Image from local](GitHub_Icon.png "Github")
 
 ###　From website link
-![GitHub Image from website](https://github.com/weskao/Markdown-syntax-tutorial-and-practice/blob/master/GitHub_Icon.png)
+![GitHub Image from website](https://i.imgur.com/XGu8q8s.png)
+
+### Click image go to certain page
+
+[![Github - Home Page](https://i.imgur.com/XGu8q8s.png)](https://github.com/ "Click here to browse Github home page")
 
 ## 超連結 (Hyperlink)
 
