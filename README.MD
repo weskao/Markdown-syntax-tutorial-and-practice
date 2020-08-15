@@ -82,15 +82,15 @@ namespace ConsoleApplication
 
 ### From relative path (圖片路徑不可包含"空白"!!!)
 
-![GitHub Image from local](GitHub_Icon.png)
+![GitHub Image from local](Images/GitHub_Icon.png)
 
 滑鼠移到圖片上會有文字顯示:
-![GitHub Image from local](GitHub_Icon.png "Github")
+![GitHub Image from local](Images/GitHub_Icon.png "Github")
 
 ###　From website link
 ![GitHub Image from website](https://i.imgur.com/XGu8q8s.png)
 
-### Click image go to certain page
+### Click image to go to certain page
 
 [![Github - Home Page](https://i.imgur.com/XGu8q8s.png)](https://github.com/ "Click here to browse Github home page")
 
