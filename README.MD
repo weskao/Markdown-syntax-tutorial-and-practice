@@ -1,10 +1,20 @@
 # 標題
+
 # h1
+
 ## h2
+
 ### h3
+
 #### h4
+
 ##### h5
+
 ###### h6
+
+## MyHeader
+
+### Header3
 
 ## 分隔線 (下一行必須有一個Enter)
 
@@ -102,3 +112,10 @@ namespace ConsoleApplication
 
 There will appear a tooltip when your cursor hover on this link.
 [Google](http://www.google.com/ "A search engine")
+
+## Go to Header (only works in browser)
+
+- [Go to h1](#h1)
+- [Go to myHeader](#myheader)
+- [Go to header3](#header3)
+- [Go back to top of page](#start-of-content)
