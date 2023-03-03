@@ -137,3 +137,17 @@ There will appear a tooltip when your cursor hover on this link.
 [Demo video](./video.html)
 
 <iframe src="./video.html"></iframe>
+
+[![Now in Android: 55]          // Title
+(<https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg>)] // Thumbnail
+(<https://www.youtube.com/watch?v=Hc79sDi3f0U> "Now in Android: 55")    // Video Link
+<https://youtu.be/VwdpuSuuf2Y>
+
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]
+(<https://youtu.be/VwdpuSuuf2Y> "Google")
+
+### Embedded video
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/VwdpuSuuf2Y)
+[![Watch the video](https://img.youtube.com/vi/4WXs3sKu41I/maxresdefault.jpg)](https://youtu.be/4WXs3sKu41I)
+[![Watch the video](https://img.youtube.com/vi/4WXs3sKu41I/hqdefault.jpg)](https://youtu.be/4WXs3sKu41I)
