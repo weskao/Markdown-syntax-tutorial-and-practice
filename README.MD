@@ -131,3 +131,9 @@ There will appear a tooltip when your cursor hover on this link.
         <p>Your user agent does not support the HTML5 Video element.</p>
     </video>
 </div>
+
+### Inline HTML video
+
+[Demo video](./video.html)
+
+<iframe src="./video.html"></iframe>
