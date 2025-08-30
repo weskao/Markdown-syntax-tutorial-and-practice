@@ -114,6 +114,63 @@ namespace ConsoleApplication
 There will appear a tooltip when your cursor hover on this link.
 [Google](http://www.google.com/ "A search engine")
 
+## 數學 (Math)
+
+行內公式示範：$123$
+
+另一個例子：$a^2 + b^2 = c^2$
+
+獨立一行公式：
+$$
+E = mc^2
+$$
+
+- 平方 → $a^2$
+- 開根號 → $\sqrt{a}$
+- 分數 → $\frac{a}{b}$
+- 無限大 → $\infty$
+
+### **常見數學表示法 (Math in Markdown/LaTeX)**
+
+#### 1. 上下標
+
+$a^2$   →  \( a^2 \)
+$a^{10}$ →  \( a^{10} \)
+$x_i$   →  \( x_i \)
+
+#### 2. 開根號
+
+$\sqrt{4}$    →  \( \sqrt{4} \)
+$\sqrt{a^2+b^2}$ →  \( \sqrt{a^2+b^2} \)
+$\sqrt[3]{8}$ →  \( \sqrt[3]{8} \)   （三次方根）
+
+#### 3. 分數
+
+$\frac{1}{2}$    →  \( \frac{1}{2} \)
+$\frac{a+b}{c+d}$ →  \( \frac{a+b}{c+d} \)
+
+#### 4. 希臘字母
+
+$\alpha, \beta, \gamma, \pi, \theta, \Omega$
+→  \( \alpha, \beta, \gamma, \pi, \theta, \Omega \)
+
+#### 5. 公式 (行內與區塊)
+
+行內：$E=mc^2$ → \( E=mc^2 \)
+
+區塊：
+$$
+\int_0^\infty e^{-x}\, dx = 1
+$$
+
+#### 6. 常用符號
+
+$\pm$ → \( \pm \)
+$\times$ → \( \times \)
+$\div$ → \( \div \)
+$\infty$ → \( \infty \)
+$\leq, \geq$ → \( \leq, \geq \)
+
 ## Go to Header (only works in browser)
 
 - [Go to h1](#h1)
