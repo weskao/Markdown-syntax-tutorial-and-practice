@@ -188,3 +188,7 @@ $\leq, \geq$ → \( \leq, \geq \)
         <p>Your user agent does not support the HTML5 Video element.</p>
     </video>
 </div>
+
+### Video Thumbnail example
+
+[![Video Thumbnail](http://media.w3.org/2010/05/sintel/poster.png)](http://media.w3.org/2010/05/sintel/trailer.mp4 "Click to play video")
