@@ -192,3 +192,7 @@ $\leq, \geq$ → \( \leq, \geq \)
 ### Video Thumbnail example
 
 [![Video Thumbnail](http://media.w3.org/2010/05/sintel/poster.png)](http://media.w3.org/2010/05/sintel/trailer.mp4 "Click to play video")
+
+## 📄 License
+
+This project is licensed under the terms of the MIT open source license. Please refer to the [LICENSE](./LICENSE) file for the full terms.
